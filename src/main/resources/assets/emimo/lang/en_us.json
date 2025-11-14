@@ -1,4 +1,5 @@
 {
     "key.emimo.pullItems": "Pull Items",
-    "key.categories.emimo": "EMI MO"
+    "key.categories.emimo": "EMI MO",
+    "emimo.pullItemsHint": "Press %s to pull available items from this inventory."
 }
