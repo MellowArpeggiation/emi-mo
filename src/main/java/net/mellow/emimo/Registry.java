@@ -37,6 +37,8 @@ public class Registry {
     private void commonSetup(final FMLCommonSetupEvent event) {
         // Some common setup code
         LOGGER.info("EMI-MO initialising");
+
+
     }
 
     @SubscribeEvent
